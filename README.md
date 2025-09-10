@@ -101,9 +101,3 @@ docker-compose down
 </pre>
 
 
-[3](https://www.markdownguide.org/basic-syntax/)
-[4](https://google.github.io/styleguide/docguide/style.html)
-[5](https://github.com/orgs/community/discussions/109580)
-[6](https://www.freecodecamp.org/news/github-flavored-markdown-syntax-examples/)
-[7](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes)
-[8](https://stackoverflow.com/questions/14951321/how-to-display-html-content-in-github-readme-md)
